@@ -1,2 +1,2 @@
 # GoUtilities
-Simple Go Utilities for Daily use of Enterprise Developer
+Simple Go Utilities for Daily use for Enterprise Developer
